@@ -1,12 +1,10 @@
-Dev first commit
+dev 4t commit
 
-dev 2nd commit
-
-dev 3rd commiit
+dev 5th commit
 
 featutre 1st commit
 
 featutre 2nd commit
 dev 4t commit
 
-dev 5th commit
+dev 3rd commiit
